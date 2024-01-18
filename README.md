@@ -1,9 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>React Redux Toolkit Store Projesi</h1>
+<h2>Bu proje, React ve Redux Toolkit kullanarak geliştirilmiş bir alışveriş sepeti uygulamasını içermektedir. 
+Bu uygulama, ürün eklemeyi, güncellemeyi ve silmeyi sağlayan temiz bir Redux store yapısı üzerine inşa edilmiştir.</h2>
 
-Currently, two official plugins are available:
+<h3>Teknolojiler</h3>
+<li>React</li>
+<li>Redux Toolkit</li>
+<li>React Router Dom</li>
+<li>React Icons</li>
+<li>Tailwind CSS</li>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# redux_toolkit_store
+![](redux.gif)
+
+
+
+
+
+
